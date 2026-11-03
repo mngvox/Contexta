@@ -1,0 +1,1201 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/udsvah03",
+    "id": "udsvah03",
+    "slide": 9,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "DEFAULT",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "backgroundColor": "#F8FAFC",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1279.97,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4472C4",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#5B9BD5",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Aptos Display"
+      },
+      "minorFont": {
+        "latinTypeface": "Aptos"
+      }
+    },
+    "typefaces": [
+      "Aptos",
+      "Aptos Display"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "DEFAULT",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1cfmhgne",
+      "id": "2",
+      "name": "Text 0",
+      "bbox": [
+        52.8,
+        33.6,
+        825.6,
+        49.92
+      ],
+      "geometry": "rect",
+      "text": "Monetization path: sell continuity, not tokens",
+      "textPreview": "Monetization path: sell continuity, not tokens",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Aptos",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Monetization path: sell continuity, not"
+          },
+          {
+            "index": 2,
+            "text": "tokens"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Monetization path: sell continuity, not tokens",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Monetization path: sell continuity, not tokens",
+              "fontSize": 40,
+              "typeface": "Aptos Display",
+              "color": "#0F172A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0b65obm9",
+      "id": "3",
+      "name": "Text 1",
+      "bbox": [
+        54.72,
+        89.28,
+        883.2,
+        26.88
+      ],
+      "geometry": "rect",
+      "text": "Early revenue starts once people feel project memory as a daily habit.",
+      "textPreview": "Early revenue starts once people feel project memory as a daily habit.",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Aptos",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Early revenue starts once people feel project memory as a daily habit."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Early revenue starts once people feel project memory as a daily habit.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Early revenue starts once people feel project memory as a daily habit.",
+              "fontSize": 14,
+              "color": "#64748B"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nex4jq5k",
+      "id": "4",
+      "name": "Text 2",
+      "bbox": [
+        76.8,
+        158.4,
+        350.4,
+        42.24
+      ],
+      "geometry": "roundRect",
+      "text": "Alpha",
+      "textPreview": "Alpha",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Aptos",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Alpha"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Alpha",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Alpha",
+              "fontSize": 24,
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#10B981",
+      "lineColor": "#10B981",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mdonql4z",
+      "id": "5",
+      "name": "Text 3",
+      "bbox": [
+        76.8,
+        216,
+        350.4,
+        36.48
+      ],
+      "geometry": "rect",
+      "text": "Free trusted testers",
+      "textPreview": "Free trusted testers",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Aptos",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Free trusted testers"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Free trusted testers",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Free trusted testers",
+              "fontSize": 18.67,
+              "color": "#0F172A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9gzml0nq",
+      "id": "6",
+      "name": "Text 4",
+      "bbox": [
+        94.08,
+        273.6,
+        315.84,
+        76.8
+      ],
+      "geometry": "roundRect",
+      "text": "Prove the loop. Watch behavior, not opinions.",
+      "textPreview": "Prove the loop. Watch behavior, not opinions.",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Aptos",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 0.13,
+          "right": 0.13,
+          "bottom": 0.13,
+          "left": 0.13
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Prove the loop. Watch behavior, not"
+          },
+          {
+            "index": 2,
+            "text": "opinions."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Prove the loop. Watch behavior, not opinions.",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Prove the loop. Watch behavior, not opinions.",
+              "fontSize": 16.27,
+              "color": "#0F172A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#E2E8F0",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ofq5svm5",
+      "id": "7",
+      "name": "Text 5",
+      "bbox": [
+        94.08,
+        369.6,
+        315.84,
+        120
+      ],
+      "geometry": "roundRect",
+      "text": "No revenue. Collect usage data, quotes and feature friction.",
+      "textPreview": "No revenue. Collect usage data, quotes and feature friction.",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Aptos",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 0.13,
+          "right": 0.13,
+          "bottom": 0.13,
+          "left": 0.13
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "No revenue. Collect usage data, quotes and"
+          },
+          {
+            "index": 2,
+            "text": "feature friction."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "No revenue. Collect usage data, quotes and feature friction.",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "No revenue. Collect usage data, quotes and feature friction.",
+              "fontSize": 14.93,
+              "color": "#64748B"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#E2E8F0",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bih4na5w",
+      "id": "8",
+      "name": "Shape 6",
+      "bbox": [
+        436.8,
+        302.4,
+        38.4,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#94A3B8",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ah8nu54b",
+      "id": "9",
+      "name": "Text 7",
+      "bbox": [
+        465.6,
+        158.4,
+        350.4,
+        42.24
+      ],
+      "geometry": "roundRect",
+      "text": "Founding members",
+      "textPreview": "Founding members",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Aptos",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Founding members"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Founding members",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Founding members",
+              "fontSize": 24,
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#2563EB",
+      "lineColor": "#2563EB",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/oza1gfyh",
+      "id": "10",
+      "name": "Text 8",
+      "bbox": [
+        465.6,
+        216,
+        350.4,
+        36.48
+      ],
+      "geometry": "rect",
+      "text": "Limited paid beta",
+      "textPreview": "Limited paid beta",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Aptos",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Limited paid beta"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Limited paid beta",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Limited paid beta",
+              "fontSize": 18.67,
+              "color": "#0F172A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p0ji9kf2",
+      "id": "11",
+      "name": "Text 9",
+      "bbox": [
+        482.88,
+        273.6,
+        315.84,
+        76.8
+      ],
+      "geometry": "roundRect",
+      "text": "$15-$20/month or lifetime offer. Sell early access to Contexta Studio.",
+      "textPreview": "$15-$20/month or lifetime offer. Sell early access to Contexta Studio.",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Aptos",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 0.13,
+          "right": 0.13,
+          "bottom": 0.13,
+          "left": 0.13
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "$15-$20/month or lifetime offer. Sell early"
+          },
+          {
+            "index": 2,
+            "text": "access to Contexta Studio."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "$15-$20/month or lifetime offer. Sell early access to Contexta Studio.",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "$15-$20/month or lifetime offer. Sell early access to Contexta Studio.",
+              "fontSize": 16.27,
+              "color": "#0F172A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#E2E8F0",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2xsjepgb",
+      "id": "12",
+      "name": "Text 10",
+      "bbox": [
+        482.88,
+        369.6,
+        315.84,
+        120
+      ],
+      "geometry": "roundRect",
+      "text": "Offer: remembers sessions, summarizes progress, tracks decisions, and continues across work.",
+      "textPreview": "Offer: remembers sessions, summarizes progress, tracks decisions, and continues across work.",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Aptos",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 0.13,
+          "right": 0.13,
+          "bottom": 0.13,
+          "left": 0.13
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Offer: remembers sessions, summarizes"
+          },
+          {
+            "index": 2,
+            "text": "progress, tracks decisions, and continues"
+          },
+          {
+            "index": 3,
+            "text": "across work."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Offer: remembers sessions, summarizes progress, tracks decisions, and continues across work.",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Offer: remembers sessions, summarizes progress, tracks decisions, and continues across work.",
+              "fontSize": 14.93,
+              "color": "#64748B"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#E2E8F0",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3y107axw",
+      "id": "13",
+      "name": "Shape 11",
+      "bbox": [
+        825.6,
+        302.4,
+        38.4,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#94A3B8",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cnu1kzyd",
+      "id": "14",
+      "name": "Text 12",
+      "bbox": [
+        854.4,
+        158.4,
+        350.4,
+        42.24
+      ],
+      "geometry": "roundRect",
+      "text": "Subscription + enterprise",
+      "textPreview": "Subscription + enterprise",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Aptos",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Subscription + enterprise"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Subscription + enterprise",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Subscription + enterprise",
+              "fontSize": 24,
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#7C3AED",
+      "lineColor": "#7C3AED",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/do3id4fy",
+      "id": "15",
+      "name": "Text 13",
+      "bbox": [
+        854.4,
+        216,
+        350.4,
+        36.48
+      ],
+      "geometry": "rect",
+      "text": "Scale pricing",
+      "textPreview": "Scale pricing",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Aptos",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Scale pricing"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Scale pricing",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Scale pricing",
+              "fontSize": 18.67,
+              "color": "#0F172A",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qlcjipgn",
+      "id": "16",
+      "name": "Text 14",
+      "bbox": [
+        871.68,
+        273.6,
+        315.84,
+        76.8
+      ],
+      "geometry": "roundRect",
+      "text": "Creator Pro $20-$50/month. Teams + enterprise pilots. BYOM for users with their own model accounts.",
+      "textPreview": "Creator Pro $20-$50/month. Teams + enterprise pilots. BYOM for users with their own model accounts.",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Aptos",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 0.13,
+          "right": 0.13,
+          "bottom": 0.13,
+          "left": 0.13
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Creator Pro $20-$50/month. Teams +"
+          },
+          {
+            "index": 2,
+            "text": "enterprise pilots. BYOM for users with"
+          },
+          {
+            "index": 3,
+            "text": "their own model accounts."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Creator Pro $20-$50/month. Teams + enterprise pilots. BYOM for users with their own model accounts.",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Creator Pro $20-$50/month. Teams + enterprise pilots. BYOM for users with their own model accounts.",
+              "fontSize": 16.27,
+              "color": "#0F172A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#E2E8F0",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bml0buxs",
+      "id": "17",
+      "name": "Text 15",
+      "bbox": [
+        871.68,
+        369.6,
+        315.84,
+        120
+      ],
+      "geometry": "roundRect",
+      "text": "Upside: agencies, events firms and creators pay for continuity across clients, projects and teams.",
+      "textPreview": "Upside: agencies, events firms and creators pay for continuity across clients, projects and teams.",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Aptos",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 0.13,
+          "right": 0.13,
+          "bottom": 0.13,
+          "left": 0.13
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Upside: agencies, events firms and creators"
+          },
+          {
+            "index": 2,
+            "text": "pay for continuity across clients, projects and"
+          },
+          {
+            "index": 3,
+            "text": "teams."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Upside: agencies, events firms and creators pay for continuity across clients, projects and teams.",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Upside: agencies, events firms and creators pay for continuity across clients, projects and teams.",
+              "fontSize": 14.93,
+              "color": "#64748B"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FFFFFF",
+      "lineColor": "#E2E8F0",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0ru1ozyp",
+      "id": "18",
+      "name": "Text 16",
+      "bbox": [
+        100.8,
+        571.2,
+        1046.4,
+        52.8
+      ],
+      "geometry": "roundRect",
+      "text": "Positioning line: \"Contexta is not cheaper AI. Contexta is continuity - the missing memory layer across creative work.\"",
+      "textPreview": "Positioning line: \"Contexta is not cheaper AI. Contexta is continuity - the missing memory layer across creative work.\"",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Aptos",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Positioning line: \"Contexta is not cheaper AI. Contexta is continuity - the missing memory layer across"
+          },
+          {
+            "index": 2,
+            "text": "creative work.\""
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Positioning line: \"Contexta is not cheaper AI. Contexta is continuity - the missing memory layer across creative work.\"",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Positioning line: \"Contexta is not cheaper AI. Contexta is continuity - the missing memory layer across creative work.\"",
+              "fontSize": 20,
+              "color": "#2563EB",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#EFF6FF",
+      "lineColor": "#BFDBFE",
+      "lineWidth": 1.33
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lsn2h4fa",
+      "id": "19",
+      "name": "Text 17",
+      "bbox": [
+        52.8,
+        676.8,
+        432,
+        19.2
+      ],
+      "geometry": "rect",
+      "text": "Contexta | Creative Continuity Core",
+      "textPreview": "Contexta | Creative Continuity Core",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Aptos",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Contexta | Creative Continuity Core"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Contexta | Creative Continuity Core",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Contexta | Creative Continuity Core",
+              "fontSize": 11.33,
+              "color": "#94A3B8"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/98ji147e",
+      "id": "20",
+      "name": "Text 18",
+      "bbox": [
+        1176,
+        673.92,
+        52.8,
+        24
+      ],
+      "geometry": "rect",
+      "text": "09",
+      "textPreview": "09",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Aptos",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "09"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "09",
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "09",
+              "fontSize": 12,
+              "color": "#94A3B8"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}
